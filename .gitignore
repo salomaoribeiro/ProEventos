@@ -393,3 +393,8 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Banco de dados SQLite
+*.db
+*.db-shm
+*.db-wal
